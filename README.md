@@ -1,4 +1,4 @@
 # mongo-php
 
 ### Minh họa cho bài viết
-https://github.com/dcvsolution/mongo-php
+http://smartjob.vn/truy-van-co-so-du-lieu-mongodb-bang-php/
